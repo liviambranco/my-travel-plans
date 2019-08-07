@@ -1,9 +1,8 @@
-# Project Title
-Travel Destinations
+#Travel Destinations
 
 :airplane: :airplane: :airplane:
 
-### Last Update
+###### Last Update
 07 August 2019
 
 ## Description
